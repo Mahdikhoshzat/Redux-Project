@@ -1,0 +1,12 @@
+.show-btn {
+    display: block;
+    color: white;
+    background-color: #3949ab;
+    padding: 10px;
+    border-radius: 3px;
+    border: none;
+    width: 7%;
+    font-weight: bold;
+    margin: 1rem auto;
+    outline: none;
+}
